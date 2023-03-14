@@ -380,7 +380,7 @@
   font-weight: 400;
 }
 
-.techs-icons {
+.techs-icons a {
   padding: 3% 0%;
 
   display: flex;
@@ -388,6 +388,7 @@
   align-items: center;
   flex-wrap: wrap;
   gap: 20px;
+  cursor: default;
 }
 
 .techs-icons img {
